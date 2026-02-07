@@ -1,0 +1,6 @@
+[submodule "connect-career-be"]
+	path = connect-career-be
+	url = https://github.com/duythong28/connect-career-be
+[submodule "connect-career-fe"]
+	path = connect-career-fe
+	url = https://github.com/duythong28/connect-career-fe
